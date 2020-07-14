@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-const Name = b.Name
+const Name = subsubpkg.Name
 
 func main() {
 	fmt.Println(Name)
