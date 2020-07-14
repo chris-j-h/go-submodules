@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/chris-j-h/go-modules/subpkg/subsubpkg"
+	"github.com/chris-j-h/go-submodules/subpkg/subsubpkg"
 	"fmt"
 )
 
